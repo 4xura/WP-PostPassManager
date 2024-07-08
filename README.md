@@ -9,7 +9,8 @@ The plugins for managing passwords for posts on Wordpress are either too expensi
 
 ## Requirements
 
-- Python 3
+- Wordpress
+- MySQL
 - `mysql-connector-python`
 
 You can install the required Python package using the following command:
