@@ -14,7 +14,7 @@ def connect_database(username, password, host, database):
         print(f"[+] Successfully connected to database.")
         return connection
     except mysql.connector.Error as err:
-        print(f"Error: {err}")
+        print(f"[!] Database connection Error: {err}")
         exit(1)
 
 def check_post_passwords(connection):
