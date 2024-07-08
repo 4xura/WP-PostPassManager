@@ -42,7 +42,7 @@ Before using the script, ensure your local WordPress database is accessible and 
   python WP-PostPassManager.py <dbuser> <dbpass> --host <dbhost> --database <dbname> --update <oldpassword> <newpassword>
   ```
 
-  This command will replace `oldpassword` with `newpassword` for all posts currently using `oldpassword`, which we can check it out with last command.
+  This command will replace `<oldpassword>` with `<newpassword>` for all posts currently using `<oldpassword>`, which we can check it out with last command.
 
 ## Configuration
 
