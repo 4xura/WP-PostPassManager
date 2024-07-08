@@ -1,6 +1,6 @@
 ## Overview
 
-The plugins for managing passwords for posts on Wordpress are either too expensive or slowing down the system. This Python script provides a straightforward way to manage password protection for posts on a WordPress site. It offers functionalities to check the current passwords of protected posts, replace all password for posts using a specific old password, update password to a post with its title.
+The plugins for managing passwords for posts on Wordpress are either too expensive or slowing down the system. This Python script provides a straightforward way to manage password protection for posts on a WordPress site. It offers functionalities to check the current passwords of protected posts, replace the password for all posts using a specific old one, and update password to a post with its title.
 
 ## Features
 
